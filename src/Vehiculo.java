@@ -33,7 +33,6 @@ public class Vehiculo {
     public float gettTotal() {
         return tTotal;
     }
-
     // Agregar un método para sumar el tiempo de vuelta al tiempo total
     public void agregarTiempoVuelta(float tiempoVuelta) {
         tTotal += tiempoVuelta;
